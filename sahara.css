@@ -5,7 +5,7 @@
  }
  
  body{
- 				background: url('img/background.png');
+ 				background: url('background.png');
  				background-repeat: no-repeat;
  				background-size: cover;
  				min-height: 100vh;
@@ -69,22 +69,22 @@
  }
  
  .card-1 {
- 				background: url('img/pic-1.png');
+ 				background: url('pic-1.png');
  				background-repeat: no-repeat;
  }
  
  .card-2 {
- 				background: url('img/pic-2.png');
+ 				background: url('pic-2.png');
  				background-repeat: no-repeat;
  }
  
  .card-3 {
- 				background: url('img/pic-3.png');
+ 				background: url('pic-3.png');
  				background-repeat: no-repeat;
  }
  
  .card-4 {
- 				background: url('img/pic-4.png');
+ 				background: url('pic-4.png');
  				background-position: center;
  				background-repeat: no-repeat;
  }
